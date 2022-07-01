@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6257f05a3c124f20ec3b8cc9"
+  },
+  "name": "boAt Airdopes 131 Bluetooth Headset",
+  "category": "Electronic",
+  "price": 1210,
+  "description": "Are you looking for a wireless earbud-type headset that delivers an impressive playback time? If your answer is yes, bring home the boAt Airdopes 131 that comes with a carrying case. This carrying case also acts as a 650 mAh portable charger that extends the playback time of these earbuds by up to 15 hours, ",
+  "manufacturer": "2021",
+  "availableItems": 100,
+  "imageURL": "https://rukminim2.flixcart.com/image/200/200/cms-rpd-images/18c24b5e95574ab6b469bbf317d77614_17331eda507_image.jpeg?q=90",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649930330122"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649930330122"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6257f0ef3c124f20ec3b8cca"
+  },
+  "name": "Solid Men Round Neck Multicolor T-Shirt ",
+  "category": "Mens",
+  "price": 500,
+  "description": "nice fitted tshirt",
+  "manufacturer": "2020",
+  "availableItems": 48,
+  "imageURL": "https://rukminim2.flixcart.com/image/800/960/ktvucnk0/t-shirt/c/g/a/m-blaw21cnpk24-billion-original-imag74mwrygm3ezz.jpeg?q=50",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649930479924"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649992422613"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625942b92b64bc2f98fa9a20"
+  },
+  "name": "xyz",
+  "category": "Electronic",
+  "price": 7788,
+  "description": "Bla bla blba Bla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blba",
+  "manufacturer": "2020",
+  "availableItems": 50,
+  "imageURL": "https://picsum.photos/200",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650016953500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650016953500"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625942d22b64bc2f98fa9a21"
+  },
+  "name": "xyz123",
+  "category": "Mens",
+  "price": 800,
+  "description": "Bla bla blba Bla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blbaBla bla blba",
+  "manufacturer": "2021",
+  "availableItems": 40,
+  "imageURL": "https://picsum.photos/200",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650016978057"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650016978057"
+    }
+  },
+  "__v": 0
+}]
